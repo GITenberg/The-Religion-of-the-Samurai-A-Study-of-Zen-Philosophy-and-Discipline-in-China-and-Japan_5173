@@ -1,11 +1,16 @@
 _repo: The-Religion-of-the-Samurai-A-Study-of-Zen-Philosophy-and-Discipline-in-China-and-Japan_5173
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Nukariya, Kaiten
     gutenberg_agent_id: '1722'
     url: http://www.gutenberg.org/2009/agents/1722
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5173#The-Religion-of-the-Samurai-A-Study-of-Zen-Philosophy-and-Discipline-in-China-and-Japan
 gutenberg_bookshelf:
 - Philosophy
 - Buddhism
