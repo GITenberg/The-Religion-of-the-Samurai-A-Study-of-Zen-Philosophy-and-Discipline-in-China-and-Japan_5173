@@ -1,5 +1,5 @@
 _repo: The-Religion-of-the-Samurai-A-Study-of-Zen-Philosophy-and-Discipline-in-China-and-Japan_5173
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -30,6 +30,7 @@ subjects:
 - !lcsh 'Japan -- Religion'
 - !lcsh 'Zen Buddhism'
 - !lcsh 'Human beings -- Origin'
+- GITenberg
 title: "The Religion of the Samurai\r\nA Study of Zen Philosophy and Discipline in\
   \ China and Japan"
 url: http://www.gutenberg.org/ebooks/5173
